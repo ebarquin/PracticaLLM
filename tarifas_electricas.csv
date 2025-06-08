@@ -1,0 +1,16 @@
+nombre,proveedor,tipo,precio_punta,precio_valle,permanencia,autoconsumo,condiciones,ideal
+Tempo Happy 2 horas,Endesa,Discriminación horaria,0.15,0.1,No,Sí,Elige 2 horas con coste 0 €/kWh,Consumo concentrado en franjas cortas
+Tempo Verde,Endesa,Energía verde,0.17,0.13,No,Sí,100% energía renovable,Usuarios ecológicos
+One Luz,Endesa,Precio estable,0.14,0.14,Sí,No,Precio fijo 12 meses,Consumo constante
+Tempo Happy Día,Endesa,Discriminación diaria,0.16,0.11,No,Sí,1 día/semana gratis,Consumo alto un día a la semana
+Libre 24h,Endesa,Precio libre,0.19,0.19,No,No,Sin permanencia,Usuarios imprevisibles
+Plan Noche,Iberdrola,Discriminación horaria,0.18,0.08,Sí,No,Precio reducido de 00:00 a 08:00,Consumo nocturno
+Plan Estable,Iberdrola,Precio estable,0.13,0.13,Sí,Sí,Mismo precio todo el día,Consumo uniforme
+Plan Verano,Iberdrola,Estacional,0.2,0.09,Sí,Sí,Descuento en verano,Alta demanda estacional
+Plan Elige 8 horas,Iberdrola,Flexible,0.19,0.1,Sí,Sí,Elige 8 horas al día a menor coste,Consumo repartido diario
+Plan Mismo Precio,Iberdrola,Fijo,0.14,0.14,No,No,Sin sorpresas en factura,Presupuesto cerrado
+Ahorro Plus,Repsol,Estable,0.13,0.13,No,No,Sin permanencia,Consumo sin picos
+Discriminación Horaria,Repsol,Discriminación horaria,0.17,0.09,No,Sí,Dos precios según hora,Consumo nocturno
+Tarifa Vehículo Eléctrico,Repsol,Especial,0.22,0.05,Sí,Sí,Pensada para coche eléctrico,Carga nocturna de coche
+Tarifa Solar,Repsol,Autoconsumo,0.15,0.1,Sí,Sí,Combina red + solar,Usuarios con placas
+Tarifa Plana,Repsol,Plana mensual,0.16,0.16,Sí,No,Mismo pago cada mes,Predecible y constante
